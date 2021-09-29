@@ -44,8 +44,7 @@ const App = () => {
             <Options>
                 <Notification />
             </Options>
-        {/* vedio player */}
-        {/* optiom -> notification */}
+  
         </div>
     )
 }

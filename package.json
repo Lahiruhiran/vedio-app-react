@@ -1,0 +1,27 @@
+{
+  "name": "vedio-app-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lahiruhiran/vedio-app-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lahiruhiran/vedio-app-react/issues"
+  },
+  "homepage": "https://github.com/Lahiruhiran/vedio-app-react#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "simple-peer": "^9.11.0",
+    "socket.io": "^4.2.0"
+  }
+}
